@@ -25,6 +25,14 @@ Vis samlet befolkningstal for hele verden: Brugeren indtaster ”Hele verden” 
 
 Begrund dine prioriteringer med lidt tekst som forklarer hvorfor de er vigtige.
 
+## Skitser
+
+### Skitse af start menuen:
+![jeppe](Jeppeman.png)
+
+### Skitse af menuen efter søgning:
+![jeppeee](Jeppeman1.png)
+
 ## Programbeskrivelse med rutediagrammer
 Skriv en kort programbeskrivelse her.
 
