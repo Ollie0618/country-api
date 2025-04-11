@@ -1,5 +1,3 @@
-Dette er en synopsis-skabelon som du kan bruge til din aflevering.
-
 # Synopsis
 Dette er årsprøveprojektet i programmering B.
 Projektets titel er [BefolkningsTælleren].
