@@ -21,7 +21,6 @@ Vis samlet befolkningstal for hele verden: Brugeren indtaster ”Hele verden” 
 |     Søgnings-bar          |     I søgnings-baren skal det være muligt at skrive et land som man vil kende   indbyggertallet på. Som bonus skal det være muligt at kunne skrive ”EU” og   ”Hele verden” i søgnings-baren hvorefter den skal vise det samlet   befolkningstal for Europa og Hele verden.    |     need-to-have    |   |   |
 |     Menu efter søgning    |     Efter søgningen skal skærmen komme med informationerne på brugerens   søgning.                                                                                                                                                                                            |     need-to-have    |   |   |
 
-Begrund dine prioriteringer med lidt tekst som forklarer hvorfor de er vigtige.
 
 ## Skitser
 
