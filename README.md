@@ -4,7 +4,7 @@ Projektets titel er BefolkningsTælleren.
 Udarbejdet af Nuf og Oliver.
 
 ## Projektbeskrivelse
-Beskrivelse: Vi vil lave et program som skal hjælpe studerende med at undersøge og analysere befolkningstal i enkelte lande samt kunne vise befolkningstallet for EU og hele verden samlet. Brugeren skal kunne indtaste navnet på et land og få vist befolkningstallet for det pågældende land.
+Beskrivelse: Vi vil lave et program som skal hjælpe studerende med at undersøge og analysere befolkningstal i lande. Brugeren skal kunne indtaste navnet på et land og få vist befolkningstallet for det pågældende land.
 
 Omfattende beskrivelse af de forskellige funktioner:
 Vis befolkningstal for et specifikt land: Brugeren indtaster navnet på et land, og programmet henter og viser data om befolkningstal fra api’en.
