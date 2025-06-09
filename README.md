@@ -6,12 +6,8 @@ Udarbejdet af Nuf og Oliver.
 ## Projektbeskrivelse
 Beskrivelse: Vi vil lave et program som skal hjælpe studerende med at undersøge og analysere befolkningstal i lande. Brugeren skal kunne indtaste navnet på et land og få vist befolkningstallet for det pågældende land.
 
-Omfattende beskrivelse af de forskellige funktioner:
+### Omfattende beskrivelse af de forskellige funktioner:
 Vis befolkningstal for et specifikt land: Brugeren indtaster navnet på et land, og programmet henter og viser data om befolkningstal fra api’en.
-
-Vis samlet befolkningstal for EU: Brugeren indtaster ”EU” for at få vist det samlet befolkningstal af alle lande i EU. 
-
-Vis samlet befolkningstal for hele verden: Brugeren indtaster ”Hele verden” hvorefter programmet skal vise hele verdens befolkningstal samlet.
 
 
 ## Kravspecifikation
